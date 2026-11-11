@@ -1,0 +1,20 @@
+# ambiente virtual
+venv/
+.venv/
+
+# scrapy / python
+.scrapy/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+output.*
+httpcache/
+
+# notebooks
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# editor
+.vscode/
+.DS_Store

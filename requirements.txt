@@ -1,0 +1,5 @@
+# Dependências do projeto
+Scrapy==2.11.2
+Twisted>=22.10.0,<25.0
+w3lib<2
+loguru==0.7.3
