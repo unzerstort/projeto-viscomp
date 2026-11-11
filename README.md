@@ -4,11 +4,11 @@ Projeto para a disciplina de Visualização Computacional.
 
 ## Estrutura
 
-- `scrapy.cfg`: configuração do Scrapy
 - `scraper/`: pacote principal do scraper
   - `scraper/disciplinas/`: código do scraper
   - `scraper/disciplinas/spiders/`: spiders
   - `scraper/disciplinas/config/`: URLs e constantes
+  - `scrapy.cfg`: configuração do Scrapy
 - `data/`: arquivos brutos gerados pelo scraper
 - `notebooks/`: notebooks de análise e exploração
 
